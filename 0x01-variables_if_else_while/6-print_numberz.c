@@ -1,10 +1,10 @@
 #include <stdio.h>
-/*
+/**
  * main- Prints base 10 numbers
  *
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int num2 = '0';
 

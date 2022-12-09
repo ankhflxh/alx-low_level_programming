@@ -3,7 +3,7 @@
  * main- Print base 10 numbers
  *
  * Return: 0
-*/ 
+*/
 int main(void)
 {
 	int num1 = 0;
