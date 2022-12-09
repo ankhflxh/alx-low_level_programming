@@ -10,11 +10,11 @@ int main(void)
 
 	for (alphalower = 'a'; alphalower <= 'z'; i++)
 	{
-		if (alphalower == q)
+		if (alphalower == 'q')
 		{
 			alphalower++;
 		}
-		else if (alpahlower == e)
+		else if (alpahlower == 'e')
 		{
 			alphalower++;
 		}
