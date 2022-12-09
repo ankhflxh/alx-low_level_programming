@@ -6,22 +6,22 @@
 */
 int main(void)
 {
-	char alphalower = 'a';
+	char alphabetlower = 'a';
 
-	for (alphalower = 'a'; alphalower <= 'z';)
+	for (alphabetlower = 'a'; alphabetlower <= 'z';)
 	{
-		if (alphalower == 'q')
+		if (alphabetlower == 'q')
 		{
-			alphalower++;
+			alphabetlower++;
 		}
-		else if (alpahlower == 'e')
+		else if (alphabetlower == 'e')
 		{
-			alphalower++;
+			alphabetlower++;
 		}
 		else
 		{
-			putchar(alphalower);
-			alphalower++;
+			putchar(alphabetlower);
+			alphabetlower++;
 		}
 	}
 	putchar('\n');
