@@ -8,7 +8,7 @@ int main(void)
 {
 	int a;
 
-	for(a = 10; a < 20; a++)
+	for (a = 10; a < 20; a++)
 	{
 		putchar((a % 10) + '0');
 		if (a != 19)
